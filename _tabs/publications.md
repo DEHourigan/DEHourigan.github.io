@@ -40,7 +40,7 @@ Below is a list of my peer-reviewed publications. You can also view my profiles 
 
 ## 2024
 
-### Discovery and synthesis of leaderless bacteriocins from the Actinomycetota
+### Discovery and synthesis of leaderless bacteriocins from the Actinomycetota *Editor's Pick*
 **Authors:** Hourigan, D., de Farias, FM., O'Connor, PM., Hill, C., Ross, RP.  
 **Journal:** *Journal of Bacteriology*, 206(10), e00298-24  
 **Year:** 2024  
@@ -56,7 +56,7 @@ Below is a list of my peer-reviewed publications. You can also view my profiles 
 **Authors:** Hourigan, D., Stefanovic, E., Hill, C., Ross, RP.  
 **Journal:** *BMC Microbiology*, 24(1), 103  
 **Year:** 2024  
-**DOI:** [10.1186/s12866-024-03256-8](https://doi.org/10.1186/s12866-024-03256-8)
+**DOI:** [10.1186/s12866-024-03256-8](https://link.springer.com/article/10.1186/s12866-024-03243-2)
 
 ### Discovery and characterisation of bacteriocins from microbiomes
 **Authors:** Hourigan, D.  
@@ -72,7 +72,7 @@ Below is a list of my peer-reviewed publications. You can also view my profiles 
 **Authors:** Mishra, A., Hourigan, D., Lindsay, AJ.  
 **Journal:** *Cancer Letters*, 529, 153-167  
 **Year:** 2022  
-**DOI:** [10.1016/j.canlet.2022.01.012](https://doi.org/10.1016/j.canlet.2022.01.012)
+**DOI:** [10.1016/j.canlet.2022.01.012](https://doi.org/10.1016/j.canlet.2022.01.003)
 
 ---
 
