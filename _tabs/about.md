@@ -12,8 +12,6 @@ My name is **David Hourigan** and I'm a postdoctoral researcher with a passion f
 
 ## Research Focus
 
-My research centers on two fascinating areas:
-
 ### 🦠 Bacteriocins
 I study bacteriocins—antimicrobial peptides produced by bacteria that can selectively eliminate competing microorganisms. These natural weapons hold promising potential for:
 - Novel therapeutic applications
@@ -34,7 +32,7 @@ My work explores the complex ecosystems of microorganisms that inhabit our bodie
 
 ## Get in Touch
 
-I'm always interested in discussing research collaborations, scientific ideas, or questions about the microbiome.
+I'm always interested in discussing research collaborations and scientific ideas.
 
 📧 [david.hourigan@ucc.ie](mailto:david.hourigan@ucc.ie)  
 🐦 [@MrDavidHourigan](https://twitter.com/MrDavidHourigan)  
@@ -51,6 +49,5 @@ I'm always interested in discussing research collaborations, scientific ideas, o
 
 ## Microbiology Society
 - 2025 Early Career Co-Chair at Microbiology Society Annual meeting in Ireland.
----
 
 *This site is a space to share my research journey, thoughts on microbiology, and occasional updates.*
