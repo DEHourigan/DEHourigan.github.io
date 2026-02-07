@@ -28,7 +28,7 @@ Below is a list of my peer-reviewed publications. You can also view my profiles 
 **Authors:** Hourigan, D., Hill, C., Ross, RP.  
 **Journal:** *BMC Genomics*, 26(1), 1108  
 **Year:** 2025  
-**DOI:** [10.1186/s12864-025-11108-0](https://doi.org/10.1186/s12864-025-11108-0)
+**DOI:** [10.1186/s12864-025-12219-z](10.1186/s12864-025-12219-z)
 
 ### Nisin-like biosynthetic gene clusters are widely distributed across microbiomes
 **Authors:** Hourigan, D., Field, D., Murray, E., Sugrue, I., O'Connor, PM., Hill, C., Ross, RP.  
@@ -72,7 +72,7 @@ Below is a list of my peer-reviewed publications. You can also view my profiles 
 **Authors:** Mishra, A., Hourigan, D., Lindsay, AJ.  
 **Journal:** *Cancer Letters*, 529, 153-167  
 **Year:** 2022  
-**DOI:** [10.1016/j.canlet.2022.01.012](https://doi.org/10.1016/j.canlet.2022.01.003)
+**DOI:** [10.1016/j.canlet.2022.01.003](10.1016/j.canlet.2022.01.003)
 
 ---
 
