@@ -3,7 +3,10 @@ title: "Hello World: First Local Blog Post"
 date: 2026-02-07
 categories: [blog]
 tags: [github-pages, jekyll, testing]
+published: true
 ---
+
+Hello World My name is Sal
 
 This is my **first blog post written locally**, committed with `git`, and deployed via GitHub Pages.  
 The goal here is simple: **test formatting, layout, and theme behaviour** before real content.
